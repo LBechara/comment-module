@@ -1,0 +1,39 @@
+body {
+  background-color: cornflowerblue;
+  font-family: "Rubik", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+p {
+  margin: 5px;
+}
+.container {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  max-width: 40vw;
+}
+.container .img {
+  height: 60px;
+}
+.container .box-comentario {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.container .box-comentario .tempo-nome {
+  display: flex;
+}
+.container .box-comentario .tempo-nome .tempo {
+  color: grey;
+}
+.container .box-comentario .box-interacao {
+  display: flex;
+}
+.container .box-comentario .box-interacao > .btn + .btn {
+  margin-left: 5px;
+}
+.container .box-comentario .box-interacao .link {
+  margin-left: 15px;
+}
