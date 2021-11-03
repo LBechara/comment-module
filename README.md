@@ -6,6 +6,8 @@ Free or paid, all templates are high quality and will make great portfolio piece
 
 ## Website
 
+https://lbechara.github.io/comment-module/
+
 ### Fonts Used
 
 https://fonts.google.com/specimen/Rubik
